@@ -1,0 +1,10 @@
+section,div{
+    border: 1px solid red;
+    padding: 10px;
+    display: grid;
+    margin: 5px;
+    /* grid-template-columns: 225px 225px 225px 225px 225px 225px; */
+    grid-template-rows: 250px 250px;
+    /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; */
+    grid-template-columns: 16.7% 16.7% 16.7% 16.7% 16.7% 16.7%;
+}

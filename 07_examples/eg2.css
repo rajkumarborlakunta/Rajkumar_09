@@ -1,0 +1,42 @@
+.dropdown-btn {
+    background-color: royalblue;
+    color: white;
+    border: none;
+    padding: 15px 45px;
+}
+
+/* Dropdown content */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: whitesmoke;
+}
+
+/* Show dropdown content when hovering over the container */
+.dropdown-container:hover .dropdown-content {
+    display: block;
+}
+
+/* Style for dropdown links */
+.dropdown-content a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+}
+
+section, .main {
+    display: flex;
+    margin: 5px;
+    flex: 1;
+}
+
+.main:nth-child(1) {
+    /* background-color: aquamarine; */
+    display: flex;
+    margin: 5px;
+    flex: 2;
+}
+section{
+    background-color: royalblue;
+}

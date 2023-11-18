@@ -1,0 +1,29 @@
+.c1{
+    border: 1px solid red;
+    margin: 5px;
+    padding: 2px;
+    background-color: crimson;
+}
+.c2{
+    border: 1px solid red;
+    margin: 5px;
+    padding: 2px;
+    background-color: chocolate;
+}
+.c3{
+    border: 1px solid chocolate;
+    margin: 5px;
+    padding: 2px;
+    background-color: cyan;
+    position: absolute;
+    top: 250px;
+    right: 250px;
+    left: 250px;
+    bottom: 250;
+}
+.c4{
+    border: 1px solid red;
+    margin: 5px;
+    padding: 2px;
+    background-color: cornsilk;
+}

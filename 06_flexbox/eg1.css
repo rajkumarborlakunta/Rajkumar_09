@@ -1,0 +1,31 @@
+#id1{
+    display: flex;
+}
+.c1{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 3px;
+    flex: 1;
+}
+.c1:nth-child(1){
+    flex: 2;
+}
+#id2{
+    display: flex;
+}
+.c2{
+    border: 1px solid pink;
+    margin: 5px;
+    padding: 3px;
+    flex: 1;
+    height: 300px;
+}
+#id3{
+    display: flex;
+}
+.c3{
+    flex: 1;
+    border: 1px solid red;
+    height: 300px;
+    margin: 5px;
+}
